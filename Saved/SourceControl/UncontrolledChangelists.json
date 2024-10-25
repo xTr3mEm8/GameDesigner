@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Malus Cristian/Documents/Unreal Projects/Prop_Prowlers/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Malus Cristian/Documents/Unreal Projects/Prop_Prowlers/Content/ThirdPerson/Blueprints/BP_PropHuntGameMode.uasset",
+				"C:/Users/Malus Cristian/Documents/Unreal Projects/Prop_Prowlers/Content/ThirdPerson/Blueprints/BP_HunterPawn.uasset",
+				"C:/Users/Malus Cristian/Documents/Unreal Projects/Prop_Prowlers/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Malus Cristian/Documents/Unreal Projects/Prop_Prowlers/Content/ThirdPerson/Blueprints/TeamInfoWidget.uasset"
+			]
+		}
+	]
+}
